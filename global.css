@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=&display=swap");
+
+body {
+    color: #ffffff;
+    font-family: 'Inter', 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #040519;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

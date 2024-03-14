@@ -1,0 +1,33 @@
+body {
+    color: #ffffff;
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-weight: 500;
+    background-color: #040519;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+pre {
+    font-size: 48px;
+}
+
+.declaration {
+    color: #8de35d;
+}
+
+.string {
+    color: #5adbfa;
+}
+
+.float {
+    color: #d747bc;
+}
